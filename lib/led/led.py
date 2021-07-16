@@ -1,7 +1,7 @@
 
 class Led:
-    def set_color(color):
+    def set_color(self, color: str):
         pass
 
-    def disable():
+    def disable(self):
         pass
